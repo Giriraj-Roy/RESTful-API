@@ -1,0 +1,26 @@
+{
+  "name": "restful-api-tutorial",
+  "version": "1.0.0",
+  "description": "This is a tutorial where a REST API is built using Node JS , Express and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giriraj-Roy/RESTful-API-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giriraj-Roy/RESTful-API-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Giriraj-Roy/RESTful-API-Tutorial#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
