@@ -1,3 +1,4 @@
-# RESTful-API-Tutorial
+# RESTful-API
 
-This is a tutorial where a REST API is built using Node JS , Express and MongoDB
+This REST API is built using Node JS , Express and MongoDB.
+Postman framework has been utilised.
